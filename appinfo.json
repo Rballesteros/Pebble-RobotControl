@@ -1,0 +1,20 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "51990635-1918-44b4-b544-a90836153ca2",
+    "appKeys": {
+        "dummy": 0
+    },
+    "longName": "robotcontrol",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "robotcontrol",
+    "companyName": "MakeAwesomeHappen",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
